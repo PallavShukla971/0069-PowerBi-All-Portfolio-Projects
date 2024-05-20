@@ -13,7 +13,7 @@ Here is the list of all PowerBi work by me:
 
 0052 ----------------- [0052-Power-BI-Fifa-World-Cup-Data-Analayst](https://github.com/PallavShukla971/0052-Power-BI-Fifa-World-Cup-Data-Analayst) -----------------
 
-0053 -----------------  -----------------
+0053 ----------------- [0053-Power-BI-IBM-HR-Dashboard-Data-Analayst](https://github.com/PallavShukla971/0053-Power-BI-IBM-HR-Dashboard-Data-Analayst) -----------------
 
 0054 -----------------  -----------------
 
@@ -27,22 +27,4 @@ Here is the list of all PowerBi work by me:
 
 0059 ----------------- [0059-Power-BI-UK-Grocery-Stores-Data-Analayst](https://github.com/PallavShukla971/0059-Power-BI-UK-Grocery-Stores-Data-Analayst/tree/main) -----------------
 
-0060 -----------------  -----------------
-
-0061 -----------------  -----------------
-
-0062 -----------------  -----------------
-
-0063 -----------------  -----------------
-
-0064 -----------------  -----------------
-
-0065 -----------------  -----------------
-
-0066 -----------------  -----------------
-
-0067 -----------------  -----------------
-
-0068 -----------------  -----------------
-
-0069 ----------------- 0069-PowerBi-All-Portfolio-Projects -----------------
+0069 ----------------- [0069-PowerBi-All-Portfolio-Projects](https://github.com/PallavShukla971/0069-PowerBi-All-Portfolio-Projects) -----------------
