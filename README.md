@@ -3,6 +3,8 @@ Hey Everyone Please find all the projects Made in Power Bi by me.
 
 # Projects can be made visible on a Zoom Call
 
+# If you want to Check all projects then click here [-> INDEX FILE <-](https://github.com/PallavShukla971/0000_Index/blob/main/README.md)
+
 Here is the list of all PowerBi work by me:
 
 ########################################### POWER-BI ##############################################
