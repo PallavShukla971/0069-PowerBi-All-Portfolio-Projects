@@ -7,7 +7,8 @@ Hey Everyone Please find all the projects Made in Power Bi by me.
 
 Here is the list of all PowerBi work by me:
 
-########################################### POWER-BI ##############################################
+[comment]: <> (########################################### POWER-BI ##############################################) 
+# #####-#####__-POWER-BI-__#####-#####
 
 0050 ----------------- [0050-Power-BI-NETFLIX-DASHBOARD-Data-Analayst](https://github.com/PallavShukla971/0050-Power-BI-NETFLIX-DASHBOARD-Data-Analayst) ------------------
 
